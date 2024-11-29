@@ -1,1 +1,1 @@
-# Analisis-de-Datos-Generaci-n-visual-del-kardex-Alamcen-Electrocaribe
+# Analisis-de-Datos-Generacion-visual-del-kardex-Almacen-Electrocaribe
